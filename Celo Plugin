@@ -1,0 +1,8 @@
+qimport { createThirdwebClient } from "thirdweb";
+
+const client = createThirdwebClient({
+  // use clientId for client side usage
+  clientId: "6d50de1d546dab824cba7d312493a788",
+  // use secretKey for server side usage
+  secretKey: "oYS...C0Mw", // replace this with full secret key
+});
