@@ -13,14 +13,7 @@
     "static/css/main.bfcef086.chunk.css.map": "/celo-remix-plugin/static/css/main.bfcef086.chunk.css.map",
     "static/js/2.76bc9b57.chunk.js.LICENSE.txt": "/celo-remix-plugin/static/js/2.76bc9b57.chunk.js.LICENSE.txt"
   },
-  "entrypoints": [import { createThirdwebClient } from "thirdweb";
-
-const client = createThirdwebClient({
-  // use clientId for client side usage
-  clientId: "6d50de1d546dab824cba7d312493a788",
-  // use secretKey for server side usage
-  secretKey: "oYS...C0Mw", // replace this with full secret key
-});
+  "entrypoints": https://github.com/thirdweb-dev/js/actions/workflows/CI.yml/badge.svg
 
     "static/js/runtime-main.5c77603f.js",
     "static/js/2.76bc9b57.chunk.js",
